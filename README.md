@@ -10,3 +10,17 @@
 
 ## :coffee: TO DO
 * -  [x] :dart:[**Recently Focused Read**]()
+
+## <span id="head-content"> *Content* </span>
+* - [x] [1.Description](#description)
+
+* - [x] [2. Stable Diffusion](#sd)
+* - [x] [3. ControlNet](#ControlNet)
+* - [x] [4. Whisper](#Whisper)
+* - [x] [5. LLAMA](#LLAMA)
+
+## <span id="description"> *1. Description* </span>
+## <span id="sd"> *1. CompVis - Stable Diffusion* </span>
+## <span id="ControlNet"> *1. Lllyasviel - ControlNet* </span>
+## <span id="Whisper"> *1. Openai - Whisper* </span>
+## <span id="LLAMA"> *1. Facebook Research - LLAMA* </span>
