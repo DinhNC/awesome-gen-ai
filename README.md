@@ -1,6 +1,6 @@
-# awesome-gen-ai
+# <p align=center>𝓐𝔀𝓮𝓼𝓸𝓶𝓮 Gen AI</p>
 
-## Star History
+## AI Update
 - CompVis/stable-diffusion
 - Lllyasviel/ControlNet
 - Openai/whisper
