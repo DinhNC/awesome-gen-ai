@@ -36,7 +36,7 @@
 ## <span id="paper"> *6. Paper Related* </span>
 
 ## <span id="other"> *7. Other Related* </span>
-* <span id="head-PE"> **📝Prompt Engineering [Ref:LINK](https://www.promptingguide.ai/📝** </span> **[       «🎯Back To Top»       ](#)**
+* <span id="head-PE"> **📝Prompt Engineering [Ref:LINK](https://www.promptingguide.ai/)📝** </span> **[       «🎯Back To Top»       ](#)**
 
 	* (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] [[Hugging Face](https://huggingface.co/spaces/microsoft/Promptist)] 
 	
