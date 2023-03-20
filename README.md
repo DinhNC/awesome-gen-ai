@@ -20,7 +20,7 @@
 * - [x] [5. LLAMA](#LLAMA)
 
 ## <span id="description"> *1. Description* </span>
-## <span id="sd"> *1. CompVis - Stable Diffusion* </span>
-## <span id="ControlNet"> *1. Lllyasviel - ControlNet* </span>
-## <span id="Whisper"> *1. Openai - Whisper* </span>
-## <span id="LLAMA"> *1. Facebook Research - LLAMA* </span>
+## <span id="sd"> *2. CompVis - Stable Diffusion* </span>
+## <span id="ControlNet"> *3. Lllyasviel - ControlNet* </span>
+## <span id="Whisper"> *4. Openai - Whisper* </span>
+## <span id="LLAMA"> *5. Facebook Research - LLAMA* </span>
