@@ -49,4 +49,4 @@
 
 <span id='public-datasets'> *Public Datasets* </span> **[«:first_quarter_moon: Back To Top»       ](#)**
 
-* Awesome Publics Datasets [[Github](#https://github.com/awesomedata/awesome-public-datasets#naturallanguage)]
+* Awesome Publics Datasets [[Github](https://github.com/awesomedata/awesome-public-datasets#naturallanguage)]
