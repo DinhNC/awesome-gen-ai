@@ -46,3 +46,7 @@
 	* (arXiv preprint 2022) **A Taxonomy of Prompt Modifiers for Text-To-Image Generation**, Jonas Oppenlaender [[Paper](https://arxiv.org/abs/2204.13988)] 
 
 	* (CHI 2022) **Design Guidelines for Prompt Engineering Text-to-Image Generative Models**, Vivian Liu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3491102.3501825)] 
+
+<span id='public-datasets'> *Public Datasets* </span> **[«:first_quarter_moon: Back To Top»       ](#)**
+
+* Awesome Publics Datasets [[Github](#https://github.com/awesomedata/awesome-public-datasets#naturallanguage)]
