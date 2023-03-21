@@ -15,7 +15,7 @@
 * - [x] [1.Description](#description)
 
 * - [x] [2. Stable Diffusion](#sd)
-	* - [ ] Stable Diffusion Prompt Book - [[PDF]](https://cdn.openart.ai/assets/Stable%20Diffusion%20Prompt%20Book%20From%20OpenArt%2011-13.pdf)
+	* - [ ] Stable Diffusion Prompt Book - [[PDF](https://cdn.openart.ai/assets/Stable%20Diffusion%20Prompt%20Book%20From%20OpenArt%2011-13.pdf)]
 * - [x] [3. ControlNet](#ControlNet)
 * - [x] [4. Whisper](#Whisper)
 * - [x] [5. LLAMA](#LLAMA)
