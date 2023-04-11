@@ -4,12 +4,18 @@
 - CompVis/stable-diffusion
 - Lllyasviel/ControlNet
 - Openai/whisper
+   - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - Facebookresearch/llama
+- Hugging Face Transformers
+  - [Transformers Document](https://github.com/huggingface/transformers)
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CompVis/stable-diffusion,lllyasviel/ControlNet,openai/whisper,facebookresearch/llama&type=Date)](https://star-history.com/#CompVis/stable-diffusion&lllyasviel/ControlNet&openai/whisper&facebookresearch/llama)
 
+
 ## :coffee: TO DO
-* -  [x] :dart:[**Recently Focused Read**]()
+
+- [x] :dart:[**Recently Focused Read**]()
 
 ## <span id="head-content"> *Content* </span>
 * - [x] [1.Description](#description)
@@ -50,3 +56,7 @@
 * <span id='public-datasets'> *Public Datasets* </span> **[«:first_quarter_moon: Back To Top»       ](#)**
 
 	* Awesome Publics Datasets [[Github](https://github.com/awesomedata/awesome-public-datasets#naturallanguage)]
+
+* <span id='vector-embedding'> Vector Embedding </span>
+
+	* Awesome sentence embedding [[Github](https://github.com/Separius/awesome-sentence-embedding)]
